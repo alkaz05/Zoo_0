@@ -5,5 +5,8 @@ public class ZooMain {
         Сrocodile crok = new Сrocodile('a','b', 'c' );
         System.out.printf("Крокодил говорит : "); crok.klats();
 
+        Owl owl = new Owl();
+        owl.woohoo();
+
     }
 }
