@@ -3,7 +3,7 @@ public class Raven {public static void main(String[] args) {
     talk();
 }
 public static void talk(){
-    System.out.println("Ворон говорит \"Кар!\"");
+    System.out.println("Ворон говорит: \"Кар!\"");
 }
 }
 
