@@ -1,5 +1,5 @@
 public class Capybara {
-    public static void main(String[] args) {
-        System.out.println("Capybara Svetlana");
-    }
+    String name="Capybara";
+    String sound="*Зубами* Клац-Клац";
+
 }
