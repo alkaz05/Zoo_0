@@ -10,6 +10,7 @@ public class ZooMain {
         crok.klats();
         Hog h = new Hog();
         h.growl();
-
+Fish fish = new Fish('р','ы');
+fish.bubble();
     }
 }
