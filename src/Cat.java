@@ -4,6 +4,7 @@ public class Cat {
     public Cat(String name, int age){
         this.name = name;
         this.age = age;
+
     }
 
     public static void hello(String name, int age){
