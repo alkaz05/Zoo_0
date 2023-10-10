@@ -3,7 +3,7 @@ public class ZooMain {
         System.out.println("Добро пожаловать в наш Зоопарк");
 
         Сrocodile crok = new Сrocodile('a','b', 'c' );
-        crok.klats();
+        System.out.printf("Крокодил говорит : "); crok.klats();
 
     }
 }
