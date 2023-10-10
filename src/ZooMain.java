@@ -7,6 +7,9 @@ public class ZooMain {
 
         Owl owl = new Owl();
         owl.woohoo();
+        crok.klats();
+        Hog h = new Hog();
+        h.growl();
 
     }
 }
