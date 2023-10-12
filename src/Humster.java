@@ -1,4 +1,4 @@
-public class Hamster {
+privat class Hamster {
     public static void main(String[] args){
         System.out.println("Humster likes to eat");
         //характер хомячка
@@ -8,5 +8,6 @@ public class Hamster {
         System.out.println(name);
         System.out.println("Он снова что-то ест!Слышите? "+sound);
         System.out.println ("Но вдруг появилась кошка");
+        //find cat
     }
 }
